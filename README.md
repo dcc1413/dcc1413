@@ -1,16 +1,20 @@
-## Hi there 👋
+# dcc1413
 
-<!--
-**dcc1413/dcc1413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About Me
+
+I work primarily in C and dabble occasionally in Python. I usually work on low-level projects, such as custom data transmission protocols. I run a small homelab as a sandbox for infrastructure work.
+
+### What I'm building
+
+Homelab - A 3-machine, all Debian homelab running a NAS, a small web server, and some games.
+TNP - A custom AFSK-based P2P protocol for sending messages.
+
+### Currently exploring
+
+- Custom data transmission protocols
